@@ -1,2 +1,3 @@
 # Parisian-Metro
  
+It is an algorithm implementation project aiming to find the shortest path in a grapgh using the Dijkstra method. It is tested and validated using the Parisian-Metro due to its complexity. The first part of the project aims to list all the metro stations of a given line in the order of travel specificied by one of the stations at either end. It then finds the shortest path in the graph between two metro stations provided by the user considering line changes. Finally, when a line is out service, the algorithm can still find the shortest path if there is one by ignoring all the stations belonging to the line out of service.
